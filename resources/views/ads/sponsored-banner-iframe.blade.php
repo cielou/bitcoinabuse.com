@@ -15,7 +15,7 @@
 			<div class="logo-big"></div>
 			<h1>Recover your coins</h1>
 			<h2>Forensic services for amounts over 0.5 BTC.</h2>
-			<a href="https://qlue.io/recover-crypto" target="_blank" rel="sponsored">GET A QUOTE &nbsp;>></a>
+			<a href="https://qlue.io/recover-crypto/#utm_source=bitcoinabuse.com&utm_medium=banner&utm_campaign=campaign_one" target="_blank" rel="sponsored" class="stretched-link" onclick="getOutboundLink(this.getAttribute('href'), 'banner'); return false;">GET A QUOTE &nbsp;>></a>
 		</div>
 		<div class="big-img"></div>
 		<span class="big-badge">Sponsored</span>
